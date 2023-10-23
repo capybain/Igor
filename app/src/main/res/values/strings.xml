@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name = "login">Login</string>
+    <string name = "email">Email</string>
+    <string name = "register">Register</string>
+    <string name = "click_to_login">Click_to_login</string>
+    <string name="logout">Logout</string>
+</resources>
